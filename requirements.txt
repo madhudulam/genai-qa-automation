@@ -1,0 +1,6 @@
+openai
+selenium
+pytest
+python-dotenv
+streamlit
+jinja2
